@@ -8,6 +8,7 @@
 </head>
 <body>
 <h2>SuccessfullyRegistered</h2>
+<h3>Code changes to github</h3>
 Student name: ${student.firstName } ${student.lastName }
 <br><br>
 
