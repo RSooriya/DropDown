@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h2>Welcome to PSNA College</h2>
 <h2>SuccessfullyRegistered</h2>
 <h3>Code changes to github</h3>
 Student name: ${student.firstName } ${student.lastName }
